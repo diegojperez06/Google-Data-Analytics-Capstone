@@ -10,7 +10,7 @@ Analyzing and Developing Marketing Campaign
 
 ### Project Overview
 --- 
-This project aims to provide data-driven decisions by working through the data analysis process. As an analyst working for a fictional online bike shop I am tasked with preparing a marketing campaign to turn casual riders into annual memebers. By first understanding the main difference between the  annual memebers and casual riders, an executive presentation was put together to provide a meaningful marketing campaign.
+This project aims to provide data-driven decisions by working through the data analysis process. As an analyst working for a fictional online bike shop I am tasked with preparing a marketing campaign to turn casual riders into annual memebers. By first understanding the main difference between the  annual memebers and casual riders, an executive presentation was put together to provide insights into meaningful marketing campaign.
 
 
 ### Business Objective
